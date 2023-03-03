@@ -8,4 +8,7 @@ Nous avons créé une page web qui permet d'afficher en temps réel le nombre de
 
 Premier projet qui à permis de nous familiarisé avec les requêtes API. 👌
 
+![image](https://user-images.githubusercontent.com/115542526/222731217-59662f54-fd79-4989-834b-c9f1d129a9bc.png)
+
+
 
